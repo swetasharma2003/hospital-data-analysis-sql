@@ -1,12 +1,12 @@
-# Hospital Data Analysis (SQL Project)
+Hospital Data Analysis (SQL Project)
 
-## 📌 Objective
+Objective:
 Analyze hospital encounter data to generate insights on patient visits, costs, and readmissions.
 
-## 🛠️ Tools Used
+Tools Used :
 - SQL (MySQL)
 
-## 📊 Key Analysis Performed
+Key Analysis Performed
 - Year-wise encounter trends
 - Encounter class distribution
 - 24-hour vs longer stays analysis
@@ -14,13 +14,13 @@ Analyze hospital encounter data to generate insights on patient visits, costs, a
 - Top procedures analysis
 - Patient readmission analysis
 
-## 🔍 Key Insights
+Key Insights:
 - Majority of encounters are under 24 hours
 - Certain procedures have significantly higher costs
 - Readmission patterns help identify patient risk
 
-## 📁 Files
+Files
 - hospdbcleaning.sql (SQL queries)
 
-## 🚀 Conclusion
+Conclusion:
 This project demonstrates SQL skills including joins, aggregations, window functions, and real-world data analysis.
